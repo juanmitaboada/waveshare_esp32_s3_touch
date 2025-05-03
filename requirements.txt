@@ -1,0 +1,3 @@
+codenerix_lib
+adafruit-ampy
+rshell
