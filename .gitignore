@@ -177,6 +177,4 @@ env/
 *.swp
 __pycache__
 doc/ESP32-S3-AMOLED-1.43-Demo-V3/
-esp-idf/
-lvgl_samples/
-lv_micropython/
+lvgl_micropython/
